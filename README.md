@@ -1,6 +1,6 @@
 - Hi, I’m @elmwynn  /ᐠ. .ᐟ\ฅ 
 - I'm a SWE working at a local public health department
-- In my free time, I occasionally like to create bots and websites (private) for fun
+- In my free time, I occasionally like to create bots, websites, and data pipelines for fun
 
 
 <!---
